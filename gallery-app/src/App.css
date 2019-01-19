@@ -1,0 +1,11 @@
+.main-nav li {
+  display: inline-block;
+}
+
+h2 a {
+  color: #438bbd;
+}
+
+h2 a:hover {
+  color: #275270;
+}
